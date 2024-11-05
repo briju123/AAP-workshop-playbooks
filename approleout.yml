@@ -28,7 +28,7 @@
            
       
     - name: Download Template
-      command: git clone  https://github.com/gvenkatx/easyTravel-OpenShift/
+      command: git clone  https://github.com/gvenkatx/easytravel-k8s
       
     - name: Wait for 10 seconds
       pause:
